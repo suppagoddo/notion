@@ -1,2 +1,2 @@
-# notion
+# Notion
 Tech Screen
